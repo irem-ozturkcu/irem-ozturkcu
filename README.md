@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Irem</h1>
+<h3 align="center">AI & Machine Learning Master's Student</h3>
 
-<!--
-**irem-ozturkcu/irem-ozturkcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Vision • Machine Learning • AI Tools
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Master's student in Artificial Intelligence and Robotics
+- 🔬 Interested in Machine Learning & Computer Vision
+- 🛠 Currently building AI tools and automation systems
+- 📚 Sharing notes and research projects
+
+---
+
+### 🚀 Tech Stack
+
+Python • Java • PyTorch • TensorFlow  
+OpenCV • Pandas • NumPy
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irem-ozturkcu&show_icons=true&theme=tokyonight)
+
+---
+
+### 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irem-ozturkcu&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Current Projects
+
+- ML Dataset Analyzer
+- AI Research Assistant
+- Computer Vision Experiments
+- AI Automation Tools
+
+---
+
+### 🌱 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- AI System Design
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hello+I'm+Irem;AI+Engineer;Machine+Learning+Researcher)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+github contribution snake

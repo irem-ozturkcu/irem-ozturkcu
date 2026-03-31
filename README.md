@@ -47,11 +47,13 @@ OpenCV • Pandas • NumPy
 
 ### 📰 Articles & Publications
 
+- 👩‍💻 **SistersLab**  
+  ➤ [https://sisterslab.co/yazar/irem-ozturkcu/](https://sisterslab.org/author/irem-ozturkcu/)
+
 - 🗞️ **Büyük İstanbul Gazetesi**  
   ➤ https://www.buyukistanbulgazetesi.com/yazarsayfasi.php?teknocip&yazarid=45  
 
-- 👩‍💻 **SistersLab**  
-  ➤ https://sisterslab.co/yazar/irem-ozturkcu/
+
 
 ---
 

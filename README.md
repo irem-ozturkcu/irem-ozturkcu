@@ -35,12 +35,7 @@ OpenCV • Pandas • NumPy
 
 ---
 
-### 🔥 Current Projects
 
-- ML Dataset Analyzer
-- AI Research Assistant
-- Computer Vision Experiments
-- AI Automation Tools
 
 ---
 
@@ -50,11 +45,11 @@ OpenCV • Pandas • NumPy
 - Computer Vision
 - AI System Design
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hello+I'm+Irem;AI+Engineer;Machine+Learning+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FF&center=true&vCenter=true&width=500&lines=Hello+I'm+Irem;AI+Engineer)
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 
-github contribution snake
+

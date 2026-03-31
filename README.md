@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irem</h1>
-<h3 align="center">AI & Machine Learning Master's Student</h3>
+<h3 align="center">AI & Robotics Master's Student</h3>
 
 <p align="center">
 Computer Vision • Machine Learning • AI Tools
@@ -36,4 +36,27 @@ OpenCV • Pandas • NumPy
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 
+## 📚 Education & Content
 
+### 🎓 Udemy Course
+[![Udemy](https://img.shields.io/badge/Udemy-Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/uygulamali-temel-elektronik-ve-arduino-egitim-kampi/learn/lecture/31683648#overview)
+
+- **Applied Basic Electronics & Arduino Training Camp**
+
+---
+
+### 📰 Articles & Publications
+
+- 🗞️ **Büyük İstanbul Gazetesi**  
+  ➤ https://www.buyukistanbulgazetesi.com/yazarsayfasi.php?teknocip&yazarid=45  
+
+- 👩‍💻 **SistersLab**  
+  ➤ https://sisterslab.co/yazar/irem-ozturkcu/
+
+---
+
+### 💼 Professional Profile
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irem-%C3%B6zt%C3%BCrk%C3%A7%C3%BC-2a8b01204/)
+
+- Connect with me on LinkedIn to see my professional journey and projects.

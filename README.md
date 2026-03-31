@@ -45,7 +45,7 @@ OpenCV • Pandas • NumPy
 
 ---
 
-### 📰 Articles & Publications
+### 📰 Publications
 
 - 👩‍💻 **SistersLab**  
   ➤ [https://sisterslab.co/yazar/irem-ozturkcu/](https://sisterslab.org/author/irem-ozturkcu/)

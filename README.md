@@ -23,22 +23,6 @@ OpenCV • Pandas • NumPy
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irem-ozturkcu&show_icons=true&theme=tokyonight)
-
----
-
-### 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irem-ozturkcu&layout=compact&theme=tokyonight)
-
----
-
-
-
----
-
 ### 🌱 Currently Learning
 
 - Deep Learning
